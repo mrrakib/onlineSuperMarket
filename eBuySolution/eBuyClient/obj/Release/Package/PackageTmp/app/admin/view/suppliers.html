@@ -1,0 +1,89 @@
+﻿
+<br />
+<br />
+<table id="suppliers" class="table table-bordered table-striped">
+    <tr>
+        <th>Company Name</th>
+        <th>Contact Name</th>
+        <th>Phone</th>
+        <th>Email</th>
+        <th>City</th>
+        <th>Country</th>
+        <th>Actions</th>
+    </tr>
+    <tr ng-repeat="su in suppliers">
+        <td ng-bind="su.CompanyName"></td>
+        <td ng-bind="su.ContactName"></td>
+        <td ng-bind="su.Phone"></td>
+        <td ng-bind="su.Email"></td>
+        <td ng-bind="su.City"></td>
+        <td ng-bind="su.Country"></td>
+        <td>
+            <button type="button" class="btn btn-info" ng-click="deleteSup(su)"><i class="fa fa-trash text-white"></i></button>
+            <button type="button" class="btn btn-warning" ng-click="editSupplier(su)" data-toggle="modal"><i class="fa fa-edit text-white"></i></button>
+        </td>
+    </tr>
+</table>
+
+<!---------------------------------- modal for Edit Supplier ---------------------------------->
+<div class="modal fade" tabindex="-1" id="modalEditSupllier" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Subcategory Details</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card p-4">
+                            <form class="form-inline text-right" enctype="multipart/form-data">
+                                <div class="form-group col-md-6 mb-2">
+                                    <label class="label label-info pr-3 col-md-3">Company Name:</label>
+                                    <input type="text" class="form-control col-md-8" placeholder="Sub category name" ng-model="sup.CompanyName" />
+                                </div>
+                                <div class="form-group col-md-6 mb-2">
+                                    <label class="label label-info pr-3 col-md-3">Contact Name:</label>
+                                    <input type="text" class="form-control col-md-8" placeholder="Sub category name" ng-model="sup.ContactName" />
+                                </div>
+                                <div class="form-group col-md-6 mb-2">
+                                    <label class="label label-info pr-3 col-md-3">Address:</label>
+                                    <textarea class="form-control col-md-8" placeholder="Sub category description" ng-model="sup.Address" />
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="form-group col-md-6 mb-2">
+                                    <label class="label label-info pr-3 col-md-3">Phone:</label>
+                                    <input type="text" class="form-control col-md-8" placeholder="Sub category name" ng-model="sup.Phone" />
+                                </div>
+
+                                <div class="form-group col-md-6 mb-2">
+                                    <label class="label label-info pr-3 col-md-3">Fax:</label>
+                                    <input type="text" class="form-control col-md-8" placeholder="Sub category name" ng-model="sup.Fax" />
+                                </div>
+                                <div class="form-group col-md-6 mb-2">
+                                    <label class="label label-info pr-3 col-md-3">Email:</label>
+                                    <input type="text" class="form-control col-md-8" placeholder="Sub category name" ng-model="sup.Email" />
+                                </div>
+                                <div class="form-group col-md-6 mb-2">
+                                    <label class="label label-info pr-3 col-md-3">City:</label>
+                                    <input type="text" class="form-control col-md-8" placeholder="Sub category name" ng-model="sup.City" />
+                                </div>
+                                <div class="form-group col-md-6 mb-2">
+                                    <label class="label label-info pr-3 col-md-3">Country:</label>
+                                    <input type="text" class="form-control col-md-8" placeholder="Sub category name" ng-model="sup.Country" />
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-info pl-4 pr-4" ng-click="updateSupplier()" data-dismiss="modal">
+                    <i class="fas fa-plus fa-1x"></i><span class="fa-1x pl-2">Update</span>
+                </button>
+                <button type="button" class="btn btn-danger glyphicon glyphicon-remove" data-dismiss="modal">Close</button>
+
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div>

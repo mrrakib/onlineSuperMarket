@@ -1,0 +1,91 @@
+﻿<!--<!DOCTYPE html>
+<html ng-app="eBuy">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../../../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../../../Content/style.css" rel="stylesheet" />
+</head>
+<body id="adminLogin"  ng-controller="accCtrl">-->
+
+<div class="container">
+    <div class="row" ng-controller="accCtrl">
+        <div class="col-md-6">
+            <div class="message warning">
+                <div class="contact-form">
+                    <div class="logo">
+                        <h1>Let's Dive In</h1>
+                    </div>
+                    <!--- form --->
+                    <form name="form1" novalidate>
+                        <div class="form">
+                            <ul>
+                                <li ng-class="{'has-error':form1.Email.$invalid &&
+                                  form2.Email.$dirty}">
+                                    <label><img src="../../images/admin/contact.png" alt=""></label>
+                                    <input type="email" class="email" name="Email" placeholder="admin@ebuy.com" required="" ng-model="logn.Email">
+                                    <span class="help-block has-error">
+                                        <span ng-show="form1.Email.$error.required">Mail address is required</span>
+                                        <span ng-show="form1.Email.$error.email">Invalid email Address</span>
+                                    </span>
+                                </li>
+                                <li>
+                                    <label><img src="../../images/admin/lock.png" alt=""></label>
+                                    <input type="Password" name="Password" placeholder="password" required="" ng-model="logn.UserPassword">
+                                </li>
+                                <li class="style text-center">
+                                    <input type="button" value="Login" ng-click="login();preLoad()">
+                                </li>
+                                <li style="color:red" ng-show="showErrorLogin">
+                                    <span>{{message}}</span>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <!--register-->
+            <div class="message warning">
+                <div class="contact-form">
+                    <div class="logo">
+                        <h1>Register</h1>
+                    </div>
+                    <!--- form --->
+                    <form name="form2" novalidate>
+                        <div class="form">
+                            <ul>
+                                <li ng-class="{'has-error':form2.Email.$invalid &&
+                                  form2.Email.$dirty}">
+                                    <label><img src="../../images/admin/contact.png" alt=""></label>
+                                    <input type="email" class="email" placeholder="admin@ebuy.com" required="" ng-model="regUser.UserEmail">
+                                </li>
+                                <li>
+                                    <label><img src="../../images/admin/lock.png" alt=""></label>
+                                    <input type="Password" name="Password" placeholder="password" required="" ng-model="regUser.UserPassword">
+                                </li>
+                                <li>
+                                    <label><img src="../../images/admin/contact.png" alt=""></label>
+                                    <input type="text" name="username" placeholder="User Name" required="" ng-model="regUser.UserName">
+                                </li>
+                                <li class="style text-center">
+                                    <input type="button" value="Register" ng-click="signUpUser()">
+                                </li>
+                            </ul>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--<script src="../../../Scripts/angular.js"></script>
+    <script src="../../eBuy.js"></script>
+    <script src="../service/adminService.js"></script>
+    <script src="../controller/adminCtrl.js"></script>
+    <script src="../../../Scripts/angular-route.js"></script>
+    <script src="../adminRoute/adminRoute.js"></script>
+</body>
+</html>-->

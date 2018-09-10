@@ -1,0 +1,221 @@
+﻿<table class="table table-bordered table-striped">
+    <tr>
+        <th>Name</th>
+        <th>Category</th>
+        <th>Unit Price (Tk)</th>
+        <th>Old Price (Tk)</th>
+        <th>Picture</th>
+        <th>Actions</th>
+    </tr>
+    <tr ng-repeat="pro in products">
+        <td ng-bind="pro.ProductName"></td>
+        <td ng-bind="pro.CategoryName"></td>
+        <td ng-bind="pro.UnitPrice"></td>
+        <td ng-bind="pro.OldPrice"></td>
+        <td>
+            <img class="form-control" style="max-height:80px;max-width:80px" src="{{pro.Picture1}}" alt="{{pro.ProductName}}" />
+        </td>
+        <td>
+            <button type="button" class="btn btn-warning" ng-click="editProduct(pro)" data-toggle="modal"><i class="fa fa-edit text-white"></i></button>
+            <button type="button" class="btn btn-success" ng-click="singleProduct(pro)" data-toggle="modal"><i class="fa fa-info-circle text-white"></i></button>
+            <button type="button" class="btn btn-danger" ng-click="deleteProd(pro)" data-toggle="modal"><i class="fa fa-trash text-white"></i></button>
+        </td>
+    </tr>
+</table>
+
+<!---------------------------------- modal for Edit Product ---------------------------------->
+<div class="modal fade" id="modalEditProduct">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Edit Product</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+                <div class="card p-4">
+                    <div class="form-inline text-right">
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Name:</label>
+                            <input type="text" class="form-control col-md-8" placeholder="Product name" ng-model="prodMod.ProductName" />
+                        </div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Unit Price:</label>
+                            <input type="text" class="form-control col-md-8" placeholder="Unit price in tk" ng-model="prodMod.UnitPrice" />
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Old Price:</label>
+                            <input type="text" class="form-control col-md-8" placeholder="Old price in tk" ng-model="prodMod.OldPrice" />
+                        </div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Discount:</label>
+                            <input type="text" class="form-control col-md-8" placeholder="Discount in %" ng-model="prodMod.Discount" />
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="form-group col-md-6 offset-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Supplier:</label>
+                            <select name="category" class="form-control col-md-8" ng-model="prodMod.SupplierID">
+                                <option value="">Select One</option>
+                                <option ng-repeat="su in suppliers" value="{{su.SupplierID}}">{{su.CompanyName}}</option>
+                            </select>
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Category:</label>
+                            <select name="category" class="form-control col-md-8" ng-model="prodMod.CategoryID">
+                                <option value="">Select One</option>
+                                <option ng-repeat="c in categories" value="{{c.CategoryID}}">{{c.CategoryName}}</option>
+                            </select>
+                        </div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Sub Category:</label>
+                            <select name="sbucat" class="form-control col-md-8" ng-model="prodMod.SubCategoryID">
+                                <option value="">Select One</option>
+                                <option ng-repeat="s in subCategories" value="{{s.SubCategoryID}}">{{s.SubCategoryName}}</option>
+                            </select>
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Size:</label>
+                            <input type="text" class="form-control col-md-8" placeholder="Product size" ng-model="prodMod.Size" />
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Badge Text:</label>
+                            <select name="category" class="form-control col-md-8" ng-model="prodMod.AddBadge">
+                                <option value="" selected>Select One</option>
+                                <option value="Sold out">Sold out</option>
+                                <option value="New">New</option>
+                                <option value="Discount">Discount</option>
+                            </select>
+                        </div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Offer Title:</label>
+                            <input type="text" class="form-control col-md-8" placeholder="offer text" ng-model="prodMod.OfferTitle" />
+                        </div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Description:</label>
+                            <textarea class="form-control col-md-8" placeholder="product description" ng-model="prodMod.Description"></textarea>
+                        </div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Long Description:</label>
+                            <textarea class="form-control col-md-8" placeholder="product long description" ng-model="prodMod.LongDescription"></textarea>
+                        </div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Quantity:</label>
+                            <input type="number" class="form-control col-md-8" placeholder="Quantity" ng-model="prodMod.Quantity" />
+                        </div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="label label-info pr-3 col-md-3">Upload Image:</label>
+                            <input type="file" id="imgInp" class="form-control">
+                        </div>
+                        <div class="form-group col-md-6 mb-2">
+                            <label class="col-md-3">Preview:</label>
+                            <img class="form-control col-md-8" id="img-uploadpro" src="{{prodMod.Picture1}}" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-info pl-4 pr-4" ng-click="updateProduct()" data-dismiss="modal">
+                    <i class="fas fa-edit fa-1x"></i><span class="fa-1x pl-2">Update</span>
+                </button>
+                <button type="button" class="btn btn-danger glyphicon glyphicon-remove" data-dismiss="modal">Close</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div>
+
+<!---------------------------------- modal for Product Details ---------------------------------->
+<div class="modal fade" id="modalSingleProduct">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Product Details</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+                <table class="table table-bordered">
+                    <tr>
+                        <th>Product Id:</th>
+                        <td>{{prodMod.ProductID}}</td>
+                    </tr>
+                    <tr>
+                        <th>Product Name:</th>
+                        <td>{{prodMod.ProductName}}</td>
+                    </tr>
+                    <tr>
+                        <th>Category Name:</th>
+                        <td>{{prodMod.CategoryName}}</td>
+                    </tr>
+                    <tr>
+                        <th>Supplier Name:</th>
+                        <td>{{prodMod.CompanyName}}</td>
+                    </tr>
+                    <tr>
+                        <th>Short Description:</th>
+                        <td>{{prodMod.ShortDescription}}</td>
+                    </tr>
+                    <tr>
+                        <th>Subcategory Name:</th>
+                        <td>{{prodMod.SubCategoryName}}</td>
+                    </tr>
+                    <tr>
+                        <th>Unit Price:</th>
+                        <td>{{prodMod.UnitPrice}}</td>
+                    </tr>
+                    <tr>
+                        <th>Old Price:</th>
+                        <td>{{prodMod.OldPrice}}</td>
+                    </tr>
+                    <tr>
+                        <th>Size:</th>
+                        <td>{{prodMod.Size}}</td>
+                    </tr>
+                    <tr>
+                        <th>Discount:</th>
+                        <td>{{prodMod.Discount}}</td>
+                    </tr>
+                    
+                    <tr>
+                        <th>Quantity:</th>
+                        <td>{{prodMod.Quantity}}</td>
+                    </tr>
+                    <tr>
+                        <th>Long Description:</th>
+                        <td>{{prodMod.LongDescription}}</td>
+                    </tr>
+                    <tr>
+                        <th>Picture:</th>
+                        <td><img height="200" width="200" src="{{prodMod.Picture1}}" alt="{{prodMod.ProductName}}" /></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger glyphicon glyphicon-remove" data-dismiss="modal">Close</button>
+
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div>
+<script>
+    $(document).ready(function () {
+        function readURL(input, prevId) {
+
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function (e) {
+                    $(prevId).attr('src', e.target.result);
+                }
+
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+
+        $("#imgInp").change(function () {
+            console.log('changed');
+            readURL(this, '#img-uploadpro');
+        });
+    });
+</script>

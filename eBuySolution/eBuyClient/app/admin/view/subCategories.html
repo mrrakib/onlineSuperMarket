@@ -1,0 +1,146 @@
+﻿<table id="categories" class="table table-bordered table-striped">
+    <tr>
+        <th>Name</th>
+        <th>Category Name</th>
+        <th>Picture</th>
+        <th>Actions</th>
+    </tr>
+    <tr ng-repeat="s in subCategories">
+        <td ng-bind="s.SubCategoryName"></td>
+        <td ng-bind="s.SubCategoryID" hidden></td>
+        <td ng-bind="s.CategoryName" ></td>
+        <td><img class="form-control" src="{{s.Picture}}" alt="{{s.SubCategoryName}}" /></td>
+        <td ng-bind="s.CategoryID" hidden ng-model="catId"></td>
+        <td>
+            <button type="button" class="btn btn-info" ng-click="deleteSubCat(s)"><i class="fa fa-trash text-white"></i></button>
+            <button type="button" class="btn btn-warning" ng-click="editSubCat(s)"><i class="fa fa-edit text-white"></i></button>
+            <button type="button" class="btn btn-success" ng-click="getSingleSubCat(s)" data-toggle="modal"><i class="fa fa-info-circle text-white"></i></button>
+        </td>
+    </tr>
+</table>
+
+
+<!---------------------------------- modal for Details ---------------------------------->
+<div class="modal fade" tabindex="-1" id="modalSingleSubCat" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Subcategory Details</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body">
+                <table class="table table-bordered">
+                    <tr>
+                        <th>Subcategory Id:</th>
+                        <td>{{subCatMod.SubCategoryID}}</td>
+                    </tr>
+                    <tr>
+                        <th>Category Name:</th>
+                        <td>{{subCatMod.CategoryName}}</td>
+                    </tr>
+                    <tr>
+                        <th>SubCategory Name:</th>
+                        <td>{{subCatMod.SubCategoryName}}</td>
+                    </tr>
+                    <tr>
+                        <th>Description:</th>
+                        <td>{{subCatMod.Description}}</td>
+                    </tr>
+                    <tr>
+                        <th>Picture:</th>
+                        <td><img height="200" width="200" src="{{subCatMod.Picture}}" alt="{{subCatMod.SubCategoryName}}" /></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger glyphicon glyphicon-remove" data-dismiss="modal">Close</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div>
+
+<!---------------------------------- modal for Edit ---------------------------------->
+<div class="modal fade" tabindex="-1" id="modalEditSubCat" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Edit Subcategory</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body col-md-12">
+                <div class="form-horizontal">
+                    <!-------------------------- Name(Edit)  ------------------------->
+                    <div class="form-group col-md-6 mb-2">
+                        <label class="label label-info pr-3 col-md-3">Name:</label>
+                        <input type="text" class="form-control col-md-8" placeholder="Sub category name" ng-model="subCatMod.SubCategoryName" />
+                    </div>
+                    <div class="form-group col-md-6 mb-2">
+                        <label class="label label-info pr-3 col-md-3">Description:</label>
+                        <textarea class="form-control col-md-8" placeholder="Sub category description" ng-model="subCatMod.Description" />
+                    </div>
+
+                    <div class="form-group col-md-6 offset-md-6 mb-2">
+                        <label class="label-info pr-3 col-md-3">Available:</label>
+                        <div class="form-check">
+                            <label class="form-check-label col-md-6">
+                                <input type="radio" class="form-check-input" name="optradio">Yes
+                            </label>
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" name="optradio">No
+                            </label>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+
+                    <div class="form-group col-md-6 mb-2">
+                        <label class="label label-info pr-3 col-md-3">Upload Image:</label>
+                        <input type="file" id="imgInp" name="imgInp" class="form-control">
+                    </div>
+                    <div class="form-group col-md-6 mb-2">
+                        <label class="col-md-3">Preview :</label>
+                        <img class="form-control col-md-8" id='img-uploadup' src="{{subCatMod.Picture}}" />
+                    </div>
+
+                    <div class="form-group col-md-6 mb-2">
+                        <label class="label label-info pr-3 col-md-3">Category:</label>
+                        <select name="category" class="form-control col-md-8" ng-model="subCatMod.CategoryID">
+                            <option value="" selected>Select One</option>
+                            <option ng-repeat="c in categories" value="{{c.CategoryID}}">{{c.CategoryName}}</option>
+                        </select>
+                    </div>
+                    <div class="col-md-12">
+                        <button type="button" class="btn btn-info pl-4 pr-4" ng-click="addSubCategory()">
+                            <i class="fas fa-plus fa-1x"></i><span class="fa-1x pl-2">Add</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger glyphicon glyphicon-remove" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-success" data-dismiss="modal" ng-click="updateSubCat();">Update</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div>
+
+<script>
+    $(document).ready(function () {
+        function readURL(input, prevId) {
+
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function (e) {
+                    $(prevId).attr('src', e.target.result);
+                }
+
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+
+        $("#imgInp").change(function () {
+            readURL(this, '#img-uploadup');
+        });
+
+    });
+</script>

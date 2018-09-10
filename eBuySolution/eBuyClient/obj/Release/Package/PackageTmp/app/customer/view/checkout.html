@@ -1,0 +1,131 @@
+﻿ <!-- catg header banner section -->
+<section id="aa-catg-head-banner">
+    <img src="images/products/fashion-header-bg-8.jpg" alt="fashion img">
+    <div class="aa-catg-head-banner-area">
+        <div class="container">
+            <div class="aa-catg-head-banner-content">
+                <h2>Checkout Page</h2>
+                <ol class="breadcrumb">
+                    <li><a href="#/home">Home</a></li>
+                    <li class="active">Checkout</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section id="checkout">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="checkout-area">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="checkout-left">
+                                <div class="panel-group" id="accordion">
+                                    <table class="table table-bordered table-striped" ng-controller="accCtrl">
+                                        <thead>
+                                            <tr class="well">
+                                                <td class="tdRight" colspan="6">
+                                                    <div class="pull-right"><b>{{TotalQuantity}}</b> items, <b>{{TotalPrice|currency:'৳'}}</b></div>
+
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <th>Product Id </th>
+                                                <th>Product Name</th>
+                                                <th>Sale Quantity</th>
+                                                <th>Unit Price</th>
+                                                <th>Total</th>
+                                                <th>...</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr ng-repeat="s1 in cartItems track by $index">
+                                                <!--ng-click="edit(s)"-->
+                                                <td>{{s1.ProductID}}</td>
+                                                <td>{{s1.ProductName}}</td>
+                                                <td>
+                                                    <button class="btn btn-danger" type="button" ng-disabled="s1.SaleQuantity<= 1" ng-click="Decrement(s1)">-</button>
+                                                    <button class="btn btn-inverse" type="button">{{s1.SaleQuantity}}</button>
+
+                                                    <button class="btn btn-success" type="button" 
+                                                            ng-disabled="s1.Quantity<=s1.SaleQuantity" ng-click="insertCart(s1)" 
+                                                            title="Product is out of stock!">+</button>
+
+                                                </td>
+                                                <td>{{s1.SalePrice|currency:'৳'}}</td>
+                                                <td>{{s1.pSalePrice|currency:'৳'}}</td>
+                                                <td><button class="btn btn-danger" ng-click="removeCart(s1)">X</button>
+                                            </tr>
+                                        </tbody>
+                                        <tfoot>
+                                            <tr>
+                                                <td>&nbsp;</td>
+                                                <td class="tdRight">Items</td>
+                                                <td>{{TotalQuantity}}</td>
+                                                <td class="tdRight">Grand Total</td>
+                                                <td>{{TotalPrice|currency:'৳'}}</td>
+                                                <td>
+                                                    <button type="button" class="btn btn-success btn-sm" ng-disabled="TotalPrice<299" title="You have to buy   more than  ৳-300" ng-click="orderPage()">CheckOut</button><br />
+                                                    <button type="button" class="btn btn-danger btn-sm" ng-click="clearCart()" ng-disabled="">Clear Cart</button>
+                                                </td>
+
+                                            </tr>
+
+                                        </tfoot>
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="checkout-right">
+                                    <h4>Order Summary</h4>
+                                    <div class="aa-order-summary-area">
+                                        <table class="table table-responsive">
+                                            <thead>
+                                                <tr>
+                                                    <th>Product</th>
+                                                    <th>Total</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr ng-repeat="s1 in cartItems">
+                                                    <td>{{s1.ProductName}}</td>
+                                                    <td>{{s1.SaleQuantity}}</td>
+                                                </tr>
+                                            </tbody>
+                                            <tfoot>
+                                                <tr>
+                                                    <th>Total</th>
+                                                    <td>{{TotalPrice|currency:'৳'}}</td>
+                                                </tr>
+                                            </tfoot>
+                                        </table>
+                                    </div>
+                                    <!--<h4>Payment Method</h4>
+                                    <div class="aa-payment-method">
+
+                                        <div class="aa-checkout-single-bill aa-checkout-billaddress">
+                                            <div class="form-group">
+
+                                                <div class="col-md-10">
+                                                    @Html.DropDownList("PayMethod", null, htmlAttributes: new { @class = "form-control", @name="PaymentMethod" })
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <br /><br />
+                                        <img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" border="0" alt="PayPal Acceptance Mark">
+                                        <input type="submit" value="Place Order" class="aa-browse-btn">
+                                    </div>-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

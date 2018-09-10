@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Release\Package\PackageTmp" />
+  <setAcl path="G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

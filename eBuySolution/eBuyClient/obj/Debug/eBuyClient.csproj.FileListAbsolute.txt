@@ -1,0 +1,1782 @@
+G:\IDB\Main Project\UI Design for eBuy\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Main Project\UI Design for eBuy\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Main Project\UI Design for eBuy\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Main Project\UI Design for eBuy\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Main Project\UI Design for eBuy\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Main Project\UI Design for eBuy\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Main Project\UI Design for eBuy\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Main Project\UI Design for eBuy\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Main Project\UI Design for eBuy\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\bin\eBuyClient.dll
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+F:\Rakib\UI Design for eBuy\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Main Project\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Main Project\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Main Project\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Main Project\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Main Project\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Main Project\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Main Project\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Main Project\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Main Project\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\eBuyClient.dll
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+F:\Rakib\UI Design for eBuy\Day 2\eBuy UI\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+C:\Users\student\Desktop\Tas\FinalDB\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+C:\Users\student\Desktop\Tas\FinalDB\eBuySolution\eBuyClient\bin\eBuyClient.dll
+C:\Users\student\Desktop\Tas\FinalDB\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+C:\Users\student\Desktop\Tas\FinalDB\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\Tas\FinalDB\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\Tas\FinalDB\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Tas\FinalDB\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+C:\Users\student\Desktop\Tas\FinalDB\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\bin\eBuyClient.dll
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+C:\Users\Lab04-01\Desktop\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Main Project\Full And Final\Day 3\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Main Project\Full And Final\Day 3\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Main Project\Full And Final\Day 3\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Main Project\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Main Project\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Main Project\Full And Final\Day 3\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Main Project\Full And Final\Day 3\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Main Project\Full And Final\Day 3\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Main Project\Full And Final\Day 3\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\eBuyClient.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\eBuyService.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Owin.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\EntityFramework.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Spatial.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\eBuyService.pdb
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\EntityFramework.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Spatial.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 3\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyClient.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyService.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Owin.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\EntityFramework.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Spatial.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyService.pdb
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\EntityFramework.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Spatial.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+F:\Rakib\Full And Final\Day 5\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyService.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Owin.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\EntityFramework.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Spatial.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyService.pdb
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\EntityFramework.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Spatial.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Main Project\Full And Final\Day 5\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Owin.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\EntityFramework.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Spatial.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyService.pdb
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\EntityFramework.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Spatial.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Main Project\Full And Final\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Owin.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\EntityFramework.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Spatial.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\eBuyService.pdb
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\EntityFramework.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Spatial.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\WebGrease.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+G:\IDB\Final Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Owin.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\EntityFramework.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\WebGrease.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Spatial.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyService.pdb
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\EntityFramework.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Spatial.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+F:\Rakib\Full And Final\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Owin.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\EntityFramework.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\WebGrease.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Spatial.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\eBuyService.pdb
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\EntityFramework.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Spatial.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Final Project\New Project\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Owin.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\EntityFramework.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\WebGrease.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Spatial.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\eBuyService.pdb
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\EntityFramework.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Spatial.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+F:\Rakib\Full And Final\Full\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Owin.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\EntityFramework.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\WebGrease.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Spatial.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\eBuyService.pdb
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\EntityFramework.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Spatial.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Final Project\Full\20180208\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\eBuyService.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Owin.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\EntityFramework.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\WebGrease.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Spatial.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\eBuyService.pdb
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\EntityFramework.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Spatial.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+F:\Rakib\Full And Final\Full\20180208(Report Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Owin.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\WebGrease.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.pdb
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+F:\Rakib\Full And Final\Full\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Owin.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\WebGrease.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.pdb
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+D:\Rakib\FinalProject\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Owin.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\WebGrease.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.pdb
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+D:\Mousumi\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Owin.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\WebGrease.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.pdb
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+C:\Users\student\Desktop\20180609\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Owin.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\WebGrease.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.pdb
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Final Project\Full\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Owin.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\WebGrease.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.pdb
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+D:\Mousumi\Last Update\20180709\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Owin.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\WebGrease.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.pdb
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojAssemblyReference.cache
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CopyComplete
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+D:\Mousumi\Last Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ApplicationInsights.config
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll.config
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyClient.pdb
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Owin.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\WebGrease.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Web.Infrastructure.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Cors.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.pdb
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\eBuyService.dll.config
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Optimization.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Mvc.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Core.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.OAuth.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.OData.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\EntityFramework.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Owin.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Net.Http.Formatting.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Newtonsoft.Json.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Security.Cookies.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Owin.Cors.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.Cors.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.Edm.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Http.WebHost.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Razor.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.Razor.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Microsoft.Data.OData.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Spatial.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\Antlr3.Runtime.pdb
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\System.Web.WebPages.Deployment.xml
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\de\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\es\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\fr\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\it\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ja\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ko\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\ru\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hans\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\bin\zh-Hant\System.Spatial.resources.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csprojResolveAssemblyReference.cache
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.csproj.CoreCompileInputs.cache
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.dll
+G:\IDB\Final Project\Full\Last Update\Final Update\20180709 - Copy\20180208(Payment Update)\eBuySolution\eBuyClient\obj\Debug\eBuyClient.pdb

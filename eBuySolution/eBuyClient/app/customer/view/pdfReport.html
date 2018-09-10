@@ -1,0 +1,63 @@
+﻿<div id="pdfPrinter">
+    <h1 class="text-center text-uppercase">Your Order</h1>
+
+    <table id="reportPdf">
+        <tr>
+            <td>Ordered By:</td>
+            <td>{{order.CustomerName}}</td>
+            <td class="pull-right">Order Number: <strong>{{orderTrackNum}}</strong></td>
+        </tr>
+        <tr>
+            <td>Address:</td>
+            <td colspan="2">{{order.CustomerAddress}}</td>
+        </tr>
+        <tr>
+            <td>Mobile:</td>
+            <td colspan="2">{{order.CustomerPhone}}</td>
+        </tr>
+        <tr>
+            <td>Email:</td>
+            <td colspan="2">{{order.CustomerEmail}}</td>
+        </tr>
+    </table>
+
+    <table class="table table-bordered" ng-controller="accCtrl">
+        <thead>
+            <tr class="well">
+                <td class="tdRight" colspan="5">
+                    <div class="pull-right"><b>{{TotalQuantity}}</b> items, <b>{{TotalPrice|currency:'৳'}}</b></div>
+                </td>
+            </tr>
+            <tr>
+                <th width="50px">SL.</th>
+                <th>Product Name</th>
+                <th>Sale Quantity</th>
+                <th>Unit Price</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="s1 in cartItems track by $index">
+                <td style="width:50px">{{$index + 1}}</td>
+                <td>{{s1.ProductName}}</td>
+                <td>{{s1.SaleQuantity}}</td>
+                <td>{{s1.SalePrice|currency:'৳'}}</td>
+                <td>{{s1.pSalePrice|currency:'৳'}}</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2" class="tdRight">Items</td>
+                <td>{{TotalQuantity}}</td>
+                <td class="tdRight">Grand Total</td>
+                <td>{{TotalPrice|currency:'৳'}}</td>
+
+            </tr>
+
+        </tfoot>
+    </table>
+
+</div>
+<button type="button" ng-click="savePdfSample()" class="btn btn-info p-2 pull-right" style="margin-bottom:15px">
+    Download PDF
+</button>

@@ -1,0 +1,21 @@
+﻿<table class="table table-bordered table-striped">
+    <tr>
+        <th>Order Number</th>
+        <th>Date</th>
+        <th>Total Amount(Tk)</th>
+        <th>Customer Name</th>
+        <th>Phone</th>
+        <th>Email</th>
+    </tr>
+    <tr dir-paginate="o in orders|filter:search|itemsPerPage:10">
+        <td ng-bind="o.OrderId"></td>
+        <td ng-bind="o.OrderDate"></td>
+        <td ng-bind="o.GrandTotal"></td>
+        <td ng-bind="o.CustomerName"></td>
+        <td ng-bind="o.CustomerPhone"></td>
+        <td ng-bind="o.CustomerEmail"></td>
+    </tr>
+</table>
+                         <!--max-size="3"-->
+<dir-pagination-controls class="float-right" ng-click="preLoad()"
+                         direction-links="true" boundary-links="true"></dir-pagination-controls>

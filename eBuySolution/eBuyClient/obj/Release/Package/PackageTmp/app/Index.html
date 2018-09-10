@@ -1,0 +1,340 @@
+﻿<!DOCTYPE html>
+<html ng-app="eBuy">
+<head>
+    <meta charset="utf-8" />
+    <title>eBuy - Welcome to Largest online shopping Mall</title>
+    <link href="../../../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../../../Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="../Content/jquery.simpleLens.css" rel="stylesheet" />
+    <link href="../Content/lite-blue-theme.css" rel="stylesheet" />
+    <link href="../Content/sequence-theme.modern-slide-in.css" rel="stylesheet" />
+    <link href="../Content/slick.css" rel="stylesheet" />
+    <link href="admin/view/lib/css/sequence-theme.modern-slide-in.css" rel="stylesheet" />
+    <link href="../Content/style.css" rel="stylesheet" />
+</head>
+<body ng-controller="adminCtrl" ng-init="preLoad()">
+    <header id="aa-header">
+        <!-- start header top  -->
+        <div class="aa-header-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="aa-header-top-area">
+                            <!-- start header top left -->
+                            <div class="aa-header-top-left">
+                                <!-- start cellphone -->
+                                <div class="cellphone hidden-xs">
+                                    <p><span class="fa fa-phone"></span>01739-408145</p>
+                                </div>
+                                <!-- / cellphone -->
+                            </div>
+                            <!-- / header top left -->
+                            <div class="aa-header-top-right">
+                                <ul class="aa-head-top-nav-right">
+                                    <li class="hidden-xs"><a href="#/checkout">Checkout</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- / header top  -->
+        <!-- start header bottom  -->
+        <div class="aa-header-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="aa-header-bottom-area">
+                            <!-- logo  -->
+                            <div class="aa-logo">
+                                <!-- Text based logo -->
+                                <a href="#">
+                                    <span class="fa fa-shopping-cart"></span>
+                                    <p>e<strong>Buy</strong> <span>Your Shopping Partner</span></p>
+                                </a>
+                                <!-- img based logo -->
+                                <!-- <a href="index.html"><img src="~/Content/img/logo.jpg" alt="logo img"></a> -->
+                            </div>
+                            <!-- / logo  -->
+                            <!-- cart box -->
+                            <div class="aa-cartbox">
+                                <a class="aa-cart-link" href="#">
+                                    <span class="fa fa-shopping-basket"></span>
+                                    <span class="aa-cart-title">SHOPPING CART</span>
+                                    <span class="aa-cart-notify">{{TotalQuantity || 0}}</span>
+                                </a>
+                                <div class="aa-cartbox-summary">
+                                    <ul>
+                                        <li ng-repeat="cart in cartItems">
+                                            <a class="aa-cartbox-img" href="#">
+                                                <img src="{{cart.Picture}}" alt="{{cat.ProductName}}">
+                                            </a>
+                                            <div class="aa-cartbox-info">
+                                                <h4><a href="#">{{cart.ProductName}}</a></h4>
+                                                <p>Quaintity: {{cart.SaleQuantity}}</p>
+                                                <p>{{cart.UnitPrice}}</p>
+                                            </div>
+                                            <a class="aa-remove-product" href="javascript:void(0)" ng-click="removeCart(cart)"><span class="fa fa-times"></span></a>
+                                        </li>
+                                        <li>
+                                            <span class="aa-cartbox-total-title">
+                                                Total
+                                            </span>
+                                            <span class="aa-cartbox-total-price">
+                                                {{TotalPrice}}
+                                            </span>
+                                        </li>
+                                    </ul>
+                                    <a class="aa-cartbox-checkout aa-primary-btn" href="#/checkout" ng-click="preLoad()">Checkout</a>
+                                </div>
+                            </div>
+                            <!-- / cart box -->
+                            <!-- search box -->
+                            <div class="aa-search-box">
+                                <form action="#" method="get">
+                                    <input type="text" name="product" id="searchTxtBox" placeholder="Search product here . . . ">
+                                    <button type="submit"><span class="fa fa-search"></span></button>
+                                </form>
+                            </div>
+                            <!-- / search box -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- / header bottom  -->
+    </header>
+
+    <section id="menu" ng-controller="accCtrl" ng-init="initialize()">
+        <div class="container">
+            <div class="menu-area">
+                <!-- Navbar -->
+                <div class="navbar navbar-default" role="navigation">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <!-- Left nav -->
+                        <ul class="nav navbar-nav">
+                            <li><a href="#/product" ng-click="preLoad()">Home</a></li>
+                            <li ng-repeat="c in categories | limitTo: 4">
+                                <a href="#/product"
+                                   ng-click="getProdByCat(c.CategoryID);preLoad()">{{c.CategoryName}}</a>
+                            </li>
+                            <li ng-hide="hideSignInOptions" class="pull-right"><a href="#/login" ng-click="preLoad()"><i class="fa fa-user"></i>Login</a></li>
+                            <li ng-show="hideSignInOptions" class="pull-right"><a href="javascript:void(0)" ng-click="logout();preLoad()">Logout</a></li>
+                        </ul>
+
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /Menu-->
+    <!-- Start slider -->
+    <section id="aa-slider">
+        <div class="aa-slider-area">
+            <div id="sequence" class="seq">
+                <div class="seq-screen">
+                    <ul class="seq-canvas">
+                        <!-- single slide item -->
+                        <li>
+                            <div class="seq-model">
+                                <img data-seq src="images/slider/1.jpg" alt="Image" />
+                            </div>
+                            <div class="seq-title">
+                                <span data-seq>Save up to 75% off</span>
+                                <h2 data-seq>Men collection</h2>
+                                <p data-seq>get up to 75% off in all men products</p>
+                                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">Shop now</a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="seq-model">
+                                <img data-seq src="images/slider/2.jpg" alt="Image" />
+                            </div>
+                            <div class="seq-title">
+                                <span data-seq>Save up to 40% off</span>
+                                <h2 data-seq>WristWatch collection</h2>
+                                <p data-seq>get up to 40% off in all wristwatch products</p>
+                                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">shop now</a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="seq-model">
+                                <img data-seq src="images/slider/3.jpg" alt="Image" />
+                            </div>
+                            <div class="seq-title">
+                                <span data-seq>Save up to 75% off</span>
+                                <h2 data-seq>Jeans collection</h2>
+                                <p data-seq>get up to 75% off in all jeans collections</p>
+                                <a data-seq href="#" class="aa-shop-now-btn aa-secondary-btn">shop now</a>
+                            </div>
+                        </li>
+
+                        <!-- end single slide item -->
+                    </ul>
+                </div>
+                <!-- slider navigation btn -->
+                <fieldset class="seq-nav" aria-controls="sequence" aria-label="Slider buttons">
+                    <a type="button" href="" class="seq-prev" aria-label="Previous"><span class="fa fa-angle-left"></span></a>
+                    <a type="button" href="" class="seq-next" aria-label="Next"><span class="fa fa-angle-right"></span></a>
+                </fieldset>
+            </div>
+        </div>
+    </section>
+    <!-- / slider -->
+
+    <div class="col-md-12">
+        <toaster-container toaster-options="{'time-out': 3000, 'close-button':true,
+                               'animation-class': 'toast-top-center'}">
+        </toaster-container>
+        <div id="wpf-loader-two">
+            <div class="wpf-loader-two-inner">
+                <span>Loading</span>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="container">
+        <div class="col-md-12" ng-controller="accCtrl">
+            <div ng-view></div>
+        </div>
+    </div>
+
+    <!-- footer -->
+    <footer id="aa-footer">
+        <!-- footer bottom -->
+        <div class="aa-footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="aa-footer-top-area">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="aa-footer-widget">
+                                        <h3>Main Menu</h3>
+                                        <ul class="aa-footer-nav">
+                                            <li><a href="#">Home</a></li>
+                                            <li><a href="#">Our Services</a></li>
+                                            <li><a href="#">Our Products</a></li>
+                                            <li><a href="#">About Us</a></li>
+                                            <li><a href="#">Contact Us</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="aa-footer-widget">
+                                        <div class="aa-footer-widget">
+                                            <h3>Knowledge Base</h3>
+                                            <ul class="aa-footer-nav">
+                                                <li><a href="#">Delivery</a></li>
+                                                <li><a href="#">Returns</a></li>
+                                                <li><a href="#">Services</a></li>
+                                                <li><a href="#">Discount</a></li>
+                                                <li><a href="#">Special Offer</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="aa-footer-widget">
+                                        <div class="aa-footer-widget">
+                                            <h3>Useful Links</h3>
+                                            <ul class="aa-footer-nav">
+                                                <li><a href="#">Search</a></li>
+                                                <li><a href="#">Advanced Search</a></li>
+                                                <li><a href="#">Suppliers</a></li>
+                                                <li><a href="#">FAQ</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="aa-footer-widget">
+                                        <div class="aa-footer-widget">
+                                            <h3>Contact Us</h3>
+                                            <address>
+                                                <p>Good Luck Center, Panthapath Signal ,Dhaka</p>
+                                                <p><span class="fa fa-phone"></span>01739-408145</p>
+                                                <p><span class="fa fa-envelope"></span>help@ebuy.com</p>
+                                            </address>
+                                            <div class="aa-footer-social">
+                                                <a href="#"><span class="fa fa-facebook"></span></a>
+                                                <a href="#"><span class="fa fa-twitter"></span></a>
+                                                <a href="#"><span class="fa fa-google-plus"></span></a>
+                                                <a href="#"><span class="fa fa-youtube"></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- footer-bottom -->
+        <div class="aa-footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="aa-footer-bottom-area">
+                            <p>Designed by <a href="#">Group 4 - C# R34</a></p>
+                            <div class="aa-footer-payment">
+                                <span class="fa fa-cc-mastercard"></span>
+                                <span class="fa fa-cc-visa"></span>
+                                <span class="fa fa-paypal"></span>
+                                <span class="fa fa-cc-discover"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- / footer -->
+
+    <script src="../Scripts/angular.js"></script>
+    <script src="angular-animate.min.js"></script>
+    <script src="../Scripts/angular-route.js"></script>
+    <script src="../Scripts/angular-cookies.js"></script>
+    <script src="admin/controller/dirPagination.js"></script>
+    <script src="eBuy.js"></script>
+
+    <script src="route/route.js"></script>
+    <script src="admin/adminRoute/adminRoute.js"></script>
+
+    <script src="../Scripts/js/jquery.min.js"></script>
+    <script src="../Scripts/js/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="../Scripts/js/bootstrap.js"></script>
+    <script src="../Scripts/js/jquery.smartmenus.js"></script>
+    <script src="../Scripts/js/jquery.smartmenus.bootstrap.js"></script>
+    <script src="../Scripts/js/jquery.simpleGallery.js"></script>
+    <script src="../Scripts/js/jquery.simpleLens.js"></script>
+    <script src="../Scripts/js/slick.js"></script>
+    <script src="../Scripts/js/custom.js"></script>
+
+    <!--Routing and angularjs-->
+    <script src="admin/service/accSvc.js"></script>
+    <script src="admin/controller/accCtrl.js"></script>
+    <script src="customer/controller/customerCtrl.js"></script>
+    <script src="admin/service/adminService.js"></script>
+    <script src="jspdf.min.js"></script>
+    <!--<script src="html2pdf.min.js"></script>-->
+    <script src="html2pdf.bundle.min.js"></script>
+    <script src="admin/controller/adminCtrl.js"></script>
+
+    <script src="../Scripts/js/sequence.js"></script>
+    <script src="../Scripts/js/sequence-theme.modern-slide-in.js"></script>
+</body>
+</html>
